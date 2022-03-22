@@ -5,6 +5,7 @@ Always looking to learn something new, I'm **Raúl Castellanos**, a Computer Sci
 This is what I do:
 * Currently developing web on React ⚛️.
 * Software Engineer @[Kodda](https://kodda.mx/) 👨‍💻
+* Software Engineer @[OasisApp](https://oasisapp.mx/) 👨‍💻
 * Previously worked with Angular 9. 
 * Contact me at: [LinkedIn](https://www.linkedin.com/in/raulcastellanosh/) | [Email](mailto:raulcastellanosh@gmail.com) 📧.
 
