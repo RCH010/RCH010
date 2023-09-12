@@ -1,11 +1,8 @@
 ### Hi! 👋
 
-Always looking to learn something new, I'm **Raúl Castellanos**, a Computer Science student at ITESM, Monterrey.
+I'm Raúl Castellanos, a Software Engineer from Mexico 🇲🇽.
+Completed my Bachelor's Degree from Tecnológico de Monterrey in Computer Science and Technology  💻.
 
-This is what I do:
-* Currently developing web on React ⚛️ and Angular.
-* Software Engineer @[OasisApp](https://oasisapp.mx/) 👨‍💻
+* Currently developing with React ⚛️, Angular and NodeJS.
+* Developer of [Ladem Digital 3D](https://lademdigital3d.com) 👨‍💻
 * Contact me at: [LinkedIn](https://www.linkedin.com/in/raulcastellanosh/) | [Email](mailto:raulcastellanosh@gmail.com) 📧.
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rch010&count_private=true&show_icons=true&theme=prussian&hide=contribs&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
